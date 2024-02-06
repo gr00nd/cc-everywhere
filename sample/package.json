@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@spectrum-css/button": "^6.0.21",
-    "@spectrum-css/typography": "^4.0.27",
+    "@spectrum-css/typography": "^5.0.50",
     "@spectrum-css/vars": "^8.0.1"  
   }
 }
